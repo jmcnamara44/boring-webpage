@@ -10,20 +10,19 @@ h2 {
   font-size: 75px;
 }
 
-p.intro {
+.intro {
   text-align: left;
   font-style: italic;
   color: #ADFF2F;
-}
-
-h3.intro {
-  color: #778899;
-
-}
-
-img.intro {
   width: 75%;
   height: 60%;
+}
+
+.main{
+  text-align: center;
+  font-size: 30px;
+  font-style: oblique;
+  font-weight: bolder;
 }
 
 .address {
@@ -36,4 +35,5 @@ img.intro {
   font-size: 25px;
   font-style: oblique;
   color: #4B0082;
+  text-align: left;
 }
