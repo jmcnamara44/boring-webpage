@@ -1,0 +1,39 @@
+h1 {
+  color:inherit;
+  text-align: center;
+  font-size: 100px;
+}
+
+h2 {
+  color: #FFD700;
+  text-align: center;
+  font-size: 75px;
+}
+
+p.intro {
+  text-align: left;
+  font-style: italic;
+  color: #ADFF2F;
+}
+
+h3.intro {
+  color: #778899;
+
+}
+
+img.intro {
+  width: 75%;
+  height: 60%;
+}
+
+.address {
+  font-size: 25px;
+  font-style: italic;
+  color: #B22222;
+}
+
+.email {
+  font-size: 25px;
+  font-style: oblique;
+  color: #4B0082;
+}
