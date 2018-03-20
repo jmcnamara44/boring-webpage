@@ -18,6 +18,12 @@ h2 {
   height: 60%;
 }
 
+.highlight {
+  background-color: #c7d5ed;
+  border: 2px solid #0641a5;
+
+}
+
 .main{
   text-align: center;
   font-size: 30px;
